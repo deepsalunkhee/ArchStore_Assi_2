@@ -1,3 +1,6 @@
+### Note:
+- This is a Intership hiring process task That I  was assigned but I was not selected 🥹. and now as I do not plan to make any further changes here I am archiving this repo ✌🏽
+
 # Trello Clone
 
 This is a simple task management app built using React.This app main focus of the drag drop feature.
